@@ -1,0 +1,37 @@
+body{
+
+    background:linear-gradient(blueviolet,rgba(157, 19, 172, 0.941),rgb(172, 19, 172));
+}
+.barra{
+    width: 900px;
+    height: 20px;
+    margin: 10px;
+    text-align: center;
+    display: table;
+    position: relative;
+}
+
+ .barra{
+    border: solid 2px;
+    border-radius: 20px;
+   text-align: center;
+   align-content: center;
+   justify-content: center;
+   margin: auto;
+ }
+
+ .redessocial{
+    color: #000;
+    text-decoration: none;
+ }
+
+ .produtos{
+    display: flex;
+   
+ }
+.slide{
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    margin:50px;
+}
