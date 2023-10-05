@@ -1,45 +1,59 @@
-body{
+body {
 
-    background:linear-gradient(blueviolet,rgba(157, 19, 172, 0.941),rgb(172, 19, 172));
-}
-.barra{
-    width: 900px;
-    height: 20px;
-    margin: 10px;
-    text-align: center;
-    display: table;
-    position: relative;
+   background: linear-gradient(blueviolet, rgba(157, 19, 172, 0.941), rgb(172, 19, 172));
 }
 
- .barra{
-    border: solid 2px;
-    border-radius: 20px;
+.barra {
+   width: 900px;
+   height: 20px;
+   margin: 10px;
+   text-align: center;
+   display: table;
+   position: relative;
+}
+
+.barra {
+   /* border: solid 2px;
+    border-radius: 20px; */
    text-align: center;
    align-content: center;
    justify-content: center;
    margin: auto;
- }
+}
 
- .redessocial3{
-    color: #000;
-    text-decoration: none;
- }
- .redessocial1{
-    color: #000;
-    text-decoration: none;
-    text-align: center;
- }
- .redessocial2{
-    color: #000;
-    text-decoration: none;
- }
- .produtos{
-    display: flex;
-   
- }
-.slide{
-    align-content: center;
-    justify-content: center;
-    text-align: center;
-    margin:50px;
+.redessocial3 {
+   color: #000;
+   text-decoration: none;
+}
+
+.redessocial1 {
+   color: #000;
+   text-decoration: none;
+   text-align: center;
+}
+
+.redessocial2 {
+   color: #000;
+   text-decoration: none;
+}
+
+.produtos {
+   display: flex;
+
+}
+
+.slide {
+   align-content: center;
+   justify-content: center;
+   text-align: center;
+   margin: 50px;
+}
+.foto01 {
+   border-radius: 25px;
+}
+.foto02{
+   border-radius: 25px;
+}
+.foto03{
+   border-radius: 25px;
 }
